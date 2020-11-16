@@ -1,8 +1,7 @@
 ### Hey 👋, I'm Pedro !! 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-ferreira-b385131a2/)
+[![Gmail Badge](https://img.shields.io/badge/-pedroferreira.developer%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mail:pedroferreirazez@gmail.com)
 </h2>
-[![Linkedin](https://img.shields.io/badge/pedrozez-linkedin-blue)](https://www.linkedin.com/in/pedrozez)
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
 <hr/>
 
 ## About Me
