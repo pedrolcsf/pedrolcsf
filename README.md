@@ -1,6 +1,6 @@
 # Hey 👋, I'm Pedro !! 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-ferreira-b385131a2/)
-[![Gmail Badge](https://img.shields.io/badge/-pedroferreira.developer%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mail:pedroferreirazez@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedroferreira.developer%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroferreira.developer@gmail.com)](mailto:pedroferreira.developer@gmail.com)
 </h2>
 <hr/>
 
