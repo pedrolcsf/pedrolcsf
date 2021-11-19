@@ -6,5 +6,4 @@
 
 ## About Me
 
-Hey My Name is Pedro Ferreira, i'm 18 years old, software engineering student.
-I'm a full stack developer who loves everything about coding.
+Hey my name is Pedro Ferreira, i'm 19 years old, I'm a web developer, I work with Node.js, ReactJS, React Native, GoLang.
