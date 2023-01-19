@@ -6,4 +6,4 @@
 
 ## About Me
 
-Hey my name is Pedro Ferreira, i'm 19 years old, I'm a web developer, I work with Node.js, ReactJS, React Native, GoLang.
+Hey my name is Pedro Ferreira, i'm 21 years old, I'm a web developer, I work with Node.js, ReactJS, React Native, GoLang.
