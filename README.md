@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey 👋, my name is Pedro Ferreira, i'm 21 years old, I am full stack developer.
+## Hey 👋, my name is Pedro Ferreira, i'm 21 years old, I am Software Developer.
 
 -------------------
 
