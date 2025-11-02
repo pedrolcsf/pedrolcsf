@@ -46,8 +46,6 @@ Backend-focused Full Stack Engineer (Node.js/NestJS, TypeScript) with 6+ years b
 - Fan Membership System (OneID) — Node/Nest + Prisma/Postgres + Next.js. Scalable white‑label platform.
 - Traffic Control System (Selprom) — PHP + JavaScript + Google Maps API + Arduino controllers.
 
-> Pin repos that showcase: NestJS + RabbitMQ, Node + Redis cache/queue, Prisma + PostgreSQL, MongoDB, Jest tests, Docker compose, and observability.
-
 ---
 
 ## 📊 GitHub Stats
