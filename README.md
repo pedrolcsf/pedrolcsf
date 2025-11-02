@@ -1,23 +1,65 @@
 <div align="center">
-  
-## Hey 👋, my name is Pedro Ferreira, i'm 22 years old, I am Software Developer.
 
--------------------
+## Hey 👋 I'm Pedro Ferreira — Backend-Focused Full Stack Software Engineer
 
-## Contact
-<a href="https://www.instagram.com/pedrolcsf/">![Instagram](https://img.shields.io/badge/pedrolcsf-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/pedrolcsf">![Twitter](https://img.shields.io/badge/pedrolcsf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/pedrolcsf/">![Linkedin](https://img.shields.io/badge/pedrolcsf-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
--------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrolcsf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolcsf/)
+[![Twitter](https://img.shields.io/badge/Twitter-pedrolcsf-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedrolcsf)
+[![Instagram](https://img.shields.io/badge/Instagram-pedrolcsf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolcsf/)
+[![GitHub](https://img.shields.io/badge/GitHub-pedrolcsf-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolcsf)
+[![Email](https://img.shields.io/badge/Email-pedrolcsferreira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolcsferreira@gmail.com)
 
-### Languages and Tools  
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)  ![React Native](https://img.shields.io/badge/ReactNative-%2300f.svg?style=for-the-badge&logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-%23E34F26.svg?style=for-the-badge&logo=vue&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GoLang](https://img.shields.io/badge/GoLang-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nest-js&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
-  
--------------------
-  
-![pedrolcsf github streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrolcsf&theme=radical&include_all_commits=true&count_private=true)
+</div>
 
- <div>
+Backend-focused Full Stack Engineer (Node.js/NestJS, TypeScript) with 6+ years building scalable APIs and async pipelines. Experience with Redis (caching/queues), RabbitMQ, PostgreSQL (Prisma), MongoDB, Docker, AWS, and Jest/TDD. I value performance, observability, and developer experience.
 
------
+- Focus: scalable APIs, async processing, observability, developer experience
+- Stack: Node.js, NestJS, TypeScript, React/Next.js, Redis, RabbitMQ, PostgreSQL (Prisma), MongoDB, Docker, AWS
+- Interests: system design, performance tuning, AI integrations
 
-Last Edited on: 28/01/2024
+---
+
+### 🚀 Main Stack
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🧠 Backend Tools
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ☁️ DevOps & Testing
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🧠 Featured Projects
+- AI Clone Platform (NeuroVerse) — Node/Nest + Redis/RabbitMQ + AWS. Scalable async pipelines and monitoring.
+- RPA Automation Software (Roboteasy) — Electron + C#. Workflow orchestration desktop app.
+- Fan Membership System (OneID) — Node/Nest + Prisma/Postgres + Next.js. Scalable white‑label platform.
+- Traffic Control System (Selprom) — PHP + JavaScript + Google Maps API + Arduino controllers.
+
+> Pin repos that showcase: NestJS + RabbitMQ, Node + Redis cache/queue, Prisma + PostgreSQL, MongoDB, Jest tests, Docker compose, and observability.
+
+---
+
+## 📊 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolcsf&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolcsf&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrolcsf&theme=radical&include_all_commits=true&count_private=true)
+
+---
+
+### 🏷️ Topics I Work With
+`nodejs` · `nestjs` · `typescript` · `react` · `nextjs` · `redis` · `rabbitmq` · `prisma` · `postgresql` · `mongodb` · `docker` · `aws` · `jest` · `opentelemetry` · `observability`
+
+---
+
+Maintained by [@pedrolcsf](https://github.com/pedrolcsf)
