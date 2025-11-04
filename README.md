@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey 👋 I'm Pedro Ferreira — Backend-Focused Full Stack Software Engineer
+## Hey 👋 I'm Pedro Ferreira — Senior Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrolcsf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolcsf/)
 [![Twitter](https://img.shields.io/badge/Twitter-pedrolcsf-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedrolcsf)
